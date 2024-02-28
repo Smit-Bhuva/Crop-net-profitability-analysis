@@ -4,7 +4,7 @@
 To analyse the net profit of a crop over long enough time, compare with another crop and find suitable crop to cultivate for next season
 
 ## Team Member:
-Harshil Ponkiya : 
+Harshil Ponkiya : https://github.com/harshilponkiya/
 
 ## Datasets:
 Data Folder contains all the required data for the project. Source of the data is given below.
